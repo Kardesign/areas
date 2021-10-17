@@ -5,7 +5,8 @@ function Header() {
         <div className="Container-header">
             
             <header>
-                <h1>Este es mi componente Header</h1>
+                <h1>Aprendiendo areas con grid</h1>
+                
             </header>
       
         </div>

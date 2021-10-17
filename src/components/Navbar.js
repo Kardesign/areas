@@ -4,7 +4,10 @@ function Navbar() {
     return (
         <div className="Nav_bar">
              <nav>
-                <h1>Navbar</h1>
+                <a href="">Home</a>
+                <a href="">Gallery</a>
+                <a href="">About</a>
+                <a href="">Contact</a>
             </nav>
             
         </div>
